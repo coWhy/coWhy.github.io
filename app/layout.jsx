@@ -1,4 +1,5 @@
 import './globals.css';
+import './vant.css';
 
 export const metadata = {
   title: '实时基金估值',
